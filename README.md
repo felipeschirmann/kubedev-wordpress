@@ -4,4 +4,4 @@
 
 ``docker-compose up -d``
 
-![doc]()
+![doc](https://raw.githubusercontent.com/felipeschirmann/kubedev-wordpress/main/images/wordpress.drawio.svg)
